@@ -1,7 +1,7 @@
-Hallo-BookBlock
+Hallo BookBlock
 ===============
 
-Full Screen Book Block with Hallo function.
+A Full Screen Book Block with Hallo function.
 
 Intergration of the FullScreenBookBlock and Hallo, a very simple in-place rich text editor for web pages
 
