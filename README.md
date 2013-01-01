@@ -1,14 +1,11 @@
-Hallo BookBlock
-===============
 
-A Full Screen Book Block with Hallo function.
+BookBlock
+=========
 
-Intergration of the FullScreenBookBlock and Hallo, a very simple in-place rich text editor for web pages
+A jQuery plugin that will create a booklet-like component that let's you navigate through its items by flipping the pages.
 
-The following libraries and jQuery plugins will be used:
+[article on Codrops](http://tympanus.net/codrops/2012/09/03/bookblock-a-content-flip-plugin/)
 
-* BookBlock by Pedro Botelho
-* Custom jQuery++ by Bitovi
-* jScrollPane by Kevin Luck
-* jQuery Mouse Wheel Plugin by Brandon Aaron
-* Custom Modernizr (peek inside to see what this build includes)
+[demo](http://tympanus.net/Development/BookBlock/)
+
+Licensed under the MIT License
