@@ -14,7 +14,7 @@ This project is a combination of codrops' Full Page Book Block and bergie's Hall
 * Book Block Source: [https://github.com/codrops/BookBlock)
 * Botelho [https://github.com/botelho)
 
-### hallo
+### Hallo
  
 * Hallo Source: [https://github.com/bergie/hallo)
 * Henri Bergius: [https://github.com/bergie)
