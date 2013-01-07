@@ -1,5 +1,5 @@
 /**
- * jquery.bookblock.js v1.0.3
+ * jquery.bookblock.js v1.0.2
  * http://www.codrops.com
  *
  * Licensed under the MIT license.
