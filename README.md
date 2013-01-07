@@ -2,7 +2,7 @@
 
 Hallo Book is a jQuery plugin that will create a booklet-like component with a simple rich text editor (contentEditable) for jQuery UI that let's you navigate through its items by flipping the pages.
 
-* Demo: [http://bjpcorp.co.uk/demos/hallobook](http://bjpcorp.co.uk/demos/hallobook)
+* Demo: [http://bjpcorp.co.uk/demos/hallobook/](http://bjpcorp.co.uk/demos/hallobook/)
 * Twitter: [@bjpcorp](http://twitter.com/bjpcorp)
 
 ## Source Aurthors
